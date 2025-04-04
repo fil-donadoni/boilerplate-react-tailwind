@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.App {
+  @apply flex justify-center items-center w-screen h-screen bg-zinc-800;
+}
